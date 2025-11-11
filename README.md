@@ -3,7 +3,7 @@
   <a href = "https://linkedin.com/in/felipe-fr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-Sou um desenvolvedor iniciante que está iniciando na programação!!!
+Sou um programador iniciante em Python!!
 
 - ❤ Estudante de Python
 - 💙 Sonho de Trabalhar com Machine Learning e CiberSegurança
