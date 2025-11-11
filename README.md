@@ -11,7 +11,6 @@ I'm a beginner Python programmer!!
 
 - ❤ Python student  
 - 💙 Dreaming of working with Machine Learning and Cybersecurity  
-- 👩‍💻 Currently learning about back-end development  
 
 <br>
 
