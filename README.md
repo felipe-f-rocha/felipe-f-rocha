@@ -1,3 +1,5 @@
+> 🇧🇷 This README is also available in Portuguese [here](README_pt.md)
+
 # 🤖 Hello, great to have you here!
 <div id="badges">
   <a href="https://linkedin.com/in/felipe-fr">
