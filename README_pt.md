@@ -7,7 +7,6 @@ Sou um programador iniciante em Python!!
 
 - ❤ Estudante de Python
 - 💙 Sonho de Trabalhar com Machine Learning e CiberSegurança
-- 👩‍💻 Aprendendo algo sobre back-end
 
 <br>
 <div>
