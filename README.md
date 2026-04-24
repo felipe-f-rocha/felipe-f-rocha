@@ -1,6 +1,6 @@
 > 🇧🇷 This README is also available in Portuguese [here](README_pt.md)
 
-# Hello, welcome!
+# Hi, I'm Felipe 👋
 
 <div id="badges">
   <a href="https://linkedin.com/in/felipe-fr">
@@ -8,21 +8,54 @@
   </a>
 </div>
 
+---
+
 ## About me
 
-Python developer focused on building scripts, automation tools, and desktop applications.  
-Currently expanding my knowledge in software logic, cybersecurity fundamentals, and exploring the path toward machine learning.
+Python developer focused on building intelligent systems and practical applications.  
+I design solutions that combine automation, data processing, and AI to solve real-world problems.
 
-- Python development and automation  
-- Desktop applications with Python  
-- Strong interest in cybersecurity and applied problem-solving  
+Currently working with:
+- AI-powered applications (Google Gemini)
+- Data validation and system reliability
+- Concurrent processing (ThreadPoolExecutor)
+
+Interested in:
+- Machine Learning
+- Backend systems
+- Cybersecurity fundamentals
+
+---
 
 ## Technologies
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original-wordmark.svg"
-       title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" width="40"/>
 </div>
+
+- Python  
+- Streamlit  
+- REST APIs & Requests  
+- Concurrent Programming  
+- Generative AI  
+
+---
+
+## Featured Project
+
+### CourseRecommender AI
+
+AI-powered system that recommends real courses based on user input, validates links in parallel, and ensures reliable results.
+
+**Key features:**
+- Generative AI integration (Google Gemini)
+- Parallel link validation (ThreadPoolExecutor)
+- Smart fallback system for broken links
+
+👉 [View Project](https://github.com/seu-link-aqui)
+
+---
 
 ## Languages
 
