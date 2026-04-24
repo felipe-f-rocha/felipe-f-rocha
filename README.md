@@ -22,7 +22,6 @@ Currently working with:
 
 Interested in:
 - Machine Learning
-- Backend systems
 - Cybersecurity fundamentals
 
 ---
