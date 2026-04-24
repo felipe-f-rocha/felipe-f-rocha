@@ -1,6 +1,6 @@
 > 🇺🇸 This README is also available in English [here](README.md)
 
-# Olá, seja bem-vindo!
+# Olá, eu sou o Felipe 👋
 
 <div id="badges">
   <a href="https://linkedin.com/in/felipe-fr">
@@ -8,22 +8,54 @@
   </a>
 </div>
 
+---
+
 ## Sobre mim
 
-Desenvolvedor Python com foco em criação de scripts, automações e aplicações desktop.  
-Atualmente aprofundando conhecimentos em lógica de programação, fundamentos de cibersegurança e explorando caminhos na área de machine learning.
+Desenvolvedor Python focado na construção de sistemas inteligentes e aplicações práticas.  
+Desenvolvo soluções que combinam automação, processamento de dados e IA para resolver problemas reais.
 
-- Desenvolvimento em Python  
-- Automação de tarefas e ferramentas desktop  
-- Interesse em cibersegurança e resolução de problemas  
+Atualmente trabalhando com:
+- Aplicações com IA generativa (Google Gemini)
+- Validação de dados e confiabilidade de sistemas
+- Processamento concorrente (ThreadPoolExecutor)
+
+Interesses:
+- Machine Learning
+- Fundamentos de cibersegurança
+
+---
 
 ## Tecnologias
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original-wordmark.svg"
-       title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" width="40"/>
 </div>
 
-## Linguagens mais utilizadas
+- Python  
+- Streamlit  
+- APIs REST & Requests  
+- Programação concorrente  
+- IA generativa  
+
+---
+
+## Projeto em Destaque
+
+### CourseRecommender AI
+
+Sistema com IA que recomenda cursos reais com base no perfil do usuário, valida links em paralelo e garante resultados confiáveis.
+
+**Principais funcionalidades:**
+- Integração com IA generativa (Google Gemini)
+- Validação paralela de links (ThreadPoolExecutor)
+- Sistema inteligente de fallback para links quebrados
+
+👉 [Ver Projeto](https://github.com/felipe-f-rocha/CourseRecommender-AI)
+
+---
+
+## Linguagens
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-f-rocha&layout=compact)
