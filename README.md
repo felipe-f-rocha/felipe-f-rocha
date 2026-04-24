@@ -53,7 +53,7 @@ AI-powered system that recommends real courses based on user input, validates li
 - Parallel link validation (ThreadPoolExecutor)
 - Smart fallback system for broken links
 
-👉 [View Project](https://github.com/seu-link-aqui)
+👉 [View Project]((https://github.com/felipe-f-rocha/CourseRecommender-AI))
 
 ---
 
