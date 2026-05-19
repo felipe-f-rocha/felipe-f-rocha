@@ -12,17 +12,21 @@
 
 ## About me
 
-Python developer focused on building intelligent systems and practical applications.  
-I design solutions that combine automation, data processing, and AI to solve real-world problems.
+Python developer passionate about building intelligent systems, automation tools, and practical AI applications.
 
-Currently working with:
-- AI-powered applications (Google Gemini)
-- Data validation and system reliability
-- Concurrent processing (ThreadPoolExecutor)
+I enjoy working on projects that combine:
+- Artificial Intelligence
+- System reliability
+- Data processing
+- Automation and scalability
 
-Interested in:
-- Machine Learning
-- Cybersecurity fundamentals
+Currently focused on:
+- AI-powered applications with Google Gemini
+- Concurrent and parallel processing
+- Data validation and resilient systems
+- Backend architecture and API integrations
+
+I'm also actively interested in contributing to open source projects, collaborating with developers worldwide, and improving my skills through real-world software development.
 
 ---
 
@@ -33,11 +37,30 @@ Interested in:
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" width="40"/>
 </div>
 
-- Python  
-- Streamlit  
-- REST APIs & Requests  
-- Concurrent Programming  
-- Generative AI  
+### Main stack
+- Python
+- Streamlit
+- REST APIs & Requests
+- Concurrent Programming
+- Generative AI
+
+### Currently learning
+- Machine Learning
+- Cybersecurity fundamentals
+- Open source collaboration workflows
+
+---
+
+## Open Source
+
+I’m interested in contributing to open source projects involving:
+- Python ecosystems
+- AI applications
+- Developer tools
+- Automation
+- Backend systems
+
+I enjoy exploring well-structured codebases, learning from experienced developers, and contributing meaningful improvements to community-driven software.
 
 ---
 
@@ -49,13 +72,14 @@ AI-powered system that recommends real courses based on user input, validates li
 
 **Key features:**
 - Generative AI integration (Google Gemini)
-- Parallel link validation (ThreadPoolExecutor)
+- Parallel link validation using `ThreadPoolExecutor`
 - Smart fallback system for broken links
+- Focus on reliability and user experience
 
 👉 [View Project](https://github.com/felipe-f-rocha/CourseRecommender-AI)
 
 ---
 
-## Languages
+## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-f-rocha&layout=compact)
