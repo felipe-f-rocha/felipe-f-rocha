@@ -12,17 +12,21 @@
 
 ## Sobre mim
 
-Desenvolvedor Python focado na construção de sistemas inteligentes e aplicações práticas.  
-Desenvolvo soluções que combinam automação, processamento de dados e IA para resolver problemas reais.
+Desenvolvedor Python apaixonado por construir sistemas inteligentes, ferramentas de automação e aplicações práticas com IA.
 
-Atualmente trabalhando com:
-- Aplicações com IA generativa (Google Gemini)
-- Validação de dados e confiabilidade de sistemas
-- Processamento concorrente (ThreadPoolExecutor)
+Gosto de trabalhar em projetos que envolvem:
+- Inteligência Artificial
+- Confiabilidade de sistemas
+- Processamento de dados
+- Automação e escalabilidade
 
-Interesses:
-- Machine Learning
-- Fundamentos de cibersegurança
+Atualmente focado em:
+- Aplicações com IA utilizando Google Gemini
+- Processamento concorrente e paralelo
+- Validação de dados e sistemas resilientes
+- Arquitetura backend e integração de APIs
+
+Também tenho grande interesse em contribuir para projetos open source, colaborar com desenvolvedores ao redor do mundo e evoluir constantemente através de experiências reais de desenvolvimento de software.
 
 ---
 
@@ -33,29 +37,49 @@ Interesses:
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" width="40"/>
 </div>
 
-- Python  
-- Streamlit  
-- APIs REST & Requests  
-- Programação concorrente  
-- IA generativa  
+### Stack principal
+- Python
+- Streamlit
+- REST APIs & Requests
+- Programação Concorrente
+- IA Generativa
+
+### Atualmente estudando
+- Machine Learning
+- Fundamentos de Cibersegurança
+- Fluxos de colaboração open source
 
 ---
 
-## Projeto em Destaque
+## Open Source
+
+Tenho interesse em contribuir para projetos open source relacionados a:
+- Ecossistema Python
+- Aplicações de IA
+- Ferramentas para desenvolvedores
+- Automação
+- Sistemas backend
+
+Gosto de explorar codebases bem estruturadas, aprender com desenvolvedores experientes e contribuir com melhorias relevantes para softwares mantidos pela comunidade.
+
+---
+
+## Projeto em destaque
 
 ### CourseRecommender AI
 
-Sistema com IA que recomenda cursos reais com base no perfil do usuário, valida links em paralelo e garante resultados confiáveis.
+Sistema com IA capaz de recomendar cursos reais com base na entrada do usuário, validar links em paralelo e garantir resultados confiáveis.
 
 **Principais funcionalidades:**
 - Integração com IA generativa (Google Gemini)
-- Validação paralela de links (ThreadPoolExecutor)
+- Validação paralela de links utilizando `ThreadPoolExecutor`
 - Sistema inteligente de fallback para links quebrados
+- Foco em confiabilidade e experiência do usuário
 
 👉 [Ver Projeto](https://github.com/felipe-f-rocha/CourseRecommender-AI)
 
 ---
 
-## Linguagens
+## Estatísticas do GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-f-rocha&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipe-f-rocha&layout=compact&theme=transparent&hide_border=true)
