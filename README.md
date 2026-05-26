@@ -82,4 +82,4 @@ AI-powered system that recommends real courses based on user input, validates li
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-f-rocha&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipe-f-rocha&layout=compact&theme=transparent&hide_border=true)
