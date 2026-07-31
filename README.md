@@ -10,76 +10,105 @@
 
 ---
 
-## About me
+## About Me
 
-Python developer passionate about building intelligent systems, automation tools, and practical AI applications.
+I'm a Python developer passionate about building reliable software, automation tools, and AI-powered applications that solve real-world problems.
 
-I enjoy working on projects that combine:
-- Artificial Intelligence
-- System reliability
-- Data processing
-- Automation and scalability
+My work focuses on creating maintainable, scalable, and resilient systems by combining modern Python development with practical artificial intelligence.
 
-Currently focused on:
-- AI-powered applications with Google Gemini
-- Concurrent and parallel processing
-- Data validation and resilient systems
-- Backend architecture and API integrations
+### What I build
 
-I'm also actively interested in contributing to open source projects, collaborating with developers worldwide, and improving my skills through real-world software development.
+* 🤖 AI-powered applications
+* ⚙️ Automation tools
+* 🔌 REST API integrations
+* 🚀 Backend systems
+* 📊 Data processing pipelines
+* 🛡️ Reliable and fault-tolerant software
+
+### Current interests
+
+* Google Gemini & Generative AI
+* Concurrent and parallel programming
+* Backend architecture
+* API integrations
+* Software reliability
+* Open source development
 
 ---
 
 ## Technologies
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" width="40"/>
-</div>
+### Main Stack
 
-### Main stack
-- Python
-- Streamlit
-- REST APIs & Requests
-- Concurrent Programming
-- Generative AI
+* Python
+* Streamlit
+* REST APIs
+* Requests
+* Concurrent Programming
+* ThreadPoolExecutor
+* Generative AI
+* Git & GitHub
 
-### Currently learning
-- Machine Learning
-- Cybersecurity fundamentals
-- Open source collaboration workflows
+### Currently Learning
+
+* Machine Learning
+* Cybersecurity Fundamentals
+* Software Architecture
+* Advanced Open Source Collaboration
 
 ---
 
 ## Open Source
 
-I’m interested in contributing to open source projects involving:
-- Python ecosystems
-- AI applications
-- Developer tools
-- Automation
-- Backend systems
+I actively contribute to open source projects within the Python ecosystem.
 
-I enjoy exploring well-structured codebases, learning from experienced developers, and contributing meaningful improvements to community-driven software.
+My contributions include:
+
+* ✅ Bug fixes
+* ✅ Code improvements
+* ✅ Documentation enhancements
+* ✅ Merged Pull Requests in community projects
+
+I'm always interested in contributing to projects related to:
+
+* Python
+* AI
+* Developer tools
+* Automation
+* Backend development
+
+I enjoy learning from large codebases while helping improve software used by developers worldwide.
 
 ---
 
 ## Featured Project
 
-### CourseRecommender AI
+# 🚀 CourseRecommender-AI
 
-AI-powered system that recommends real courses based on user input, validates links in parallel, and ensures reliable results.
+An intelligent course recommendation platform powered by Generative AI.
 
-**Key features:**
-- Generative AI integration (Google Gemini)
-- Parallel link validation using `ThreadPoolExecutor`
-- Smart fallback system for broken links
-- Focus on reliability and user experience
+It recommends real online courses based on user interests, validates links in parallel, and provides reliable results through resilient fallback mechanisms.
 
-👉 [View Project](https://github.com/felipe-f-rocha/CourseRecommender-AI)
+### Highlights
+
+* 🤖 Google Gemini integration
+* ⚡ Parallel link validation using ThreadPoolExecutor
+* 🔄 Smart fallback system
+* ✅ URL verification before recommendation
+* 🏗️ Modular architecture
+* 🧪 Automated testing
+* 🎯 Focus on reliability and user experience
+
+👉 **Repository:** https://github.com/felipe-f-rocha/CourseRecommender-AI
 
 ---
 
-## GitHub Stats
+## GitHub
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipe-f-rocha&layout=compact&theme=transparent&hide_border=true)
+* 💻 Building practical software with Python
+* 🌱 Continuously improving through open source
+* 🚀 Always working on new projects and learning modern technologies
+
+Feel free to explore my repositories or connect with me on LinkedIn.
+
+---
