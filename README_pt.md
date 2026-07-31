@@ -1,4 +1,4 @@
-> 🇺🇸 This README is also available in English [here](README.md)
+> 🇺🇸 Este README também está disponível em inglês [aqui](README.md)
 
 # Olá, eu sou o Felipe 👋
 
@@ -12,74 +12,101 @@
 
 ## Sobre mim
 
-Desenvolvedor Python apaixonado por construir sistemas inteligentes, ferramentas de automação e aplicações práticas com IA.
+Sou desenvolvedor Python apaixonado por criar software confiável, ferramentas de automação e aplicações com Inteligência Artificial que resolvem problemas reais.
 
-Gosto de trabalhar em projetos que envolvem:
-- Inteligência Artificial
-- Confiabilidade de sistemas
-- Processamento de dados
-- Automação e escalabilidade
+Meu trabalho é voltado para o desenvolvimento de sistemas escaláveis, resilientes e de fácil manutenção, combinando desenvolvimento moderno em Python com aplicações práticas de IA.
 
-Atualmente focado em:
-- Aplicações com IA utilizando Google Gemini
-- Processamento concorrente e paralelo
-- Validação de dados e sistemas resilientes
-- Arquitetura backend e integração de APIs
+### O que eu desenvolvo
 
-Também tenho grande interesse em contribuir para projetos open source, colaborar com desenvolvedores ao redor do mundo e evoluir constantemente através de experiências reais de desenvolvimento de software.
+* 🤖 Aplicações com Inteligência Artificial
+* ⚙️ Ferramentas de automação
+* 🔌 Integração de APIs REST
+* 🚀 Sistemas backend
+* 📊 Processamento de dados
+* 🛡️ Software confiável e tolerante a falhas
+
+### Interesses atuais
+
+* Google Gemini e IA Generativa
+* Programação concorrente e paralela
+* Arquitetura de backend
+* Integração de APIs
+* Confiabilidade de software
+* Desenvolvimento Open Source
 
 ---
 
 ## Tecnologias
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" width="40"/>
-</div>
-
 ### Stack principal
-- Python
-- Streamlit
-- REST APIs & Requests
-- Programação Concorrente
-- IA Generativa
+
+* Python
+* Streamlit
+* APIs REST
+* Requests
+* Programação Concorrente
+* ThreadPoolExecutor
+* IA Generativa
+* Git & GitHub
 
 ### Atualmente estudando
-- Machine Learning
-- Fundamentos de Cibersegurança
-- Fluxos de colaboração open source
+
+* Machine Learning
+* Fundamentos de Cibersegurança
+* Arquitetura de Software
+* Colaboração avançada em projetos Open Source
 
 ---
 
 ## Open Source
 
-Tenho interesse em contribuir para projetos open source relacionados a:
-- Ecossistema Python
-- Aplicações de IA
-- Ferramentas para desenvolvedores
-- Automação
-- Sistemas backend
+Contribuo ativamente para projetos Open Source do ecossistema Python.
 
-Gosto de explorar codebases bem estruturadas, aprender com desenvolvedores experientes e contribuir com melhorias relevantes para softwares mantidos pela comunidade.
+Minhas contribuições incluem:
 
----
+* ✅ Correção de bugs
+* ✅ Melhorias de código
+* ✅ Aprimoramento de documentação
+* ✅ Pull Requests aceitos em projetos da comunidade
 
-## Projeto em destaque
+Tenho interesse em contribuir para projetos relacionados a:
 
-### CourseRecommender AI
+* Python
+* Inteligência Artificial
+* Ferramentas para desenvolvedores
+* Automação
+* Desenvolvimento Backend
 
-Sistema com IA capaz de recomendar cursos reais com base na entrada do usuário, validar links em paralelo e garantir resultados confiáveis.
-
-**Principais funcionalidades:**
-- Integração com IA generativa (Google Gemini)
-- Validação paralela de links utilizando `ThreadPoolExecutor`
-- Sistema inteligente de fallback para links quebrados
-- Foco em confiabilidade e experiência do usuário
-
-👉 [Ver Projeto](https://github.com/felipe-f-rocha/CourseRecommender-AI)
+Gosto de explorar bases de código bem estruturadas, aprender com desenvolvedores experientes e ajudar a melhorar softwares utilizados por pessoas ao redor do mundo.
 
 ---
 
-## Estatísticas do GitHub
+## Projeto em Destaque
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipe-f-rocha&layout=compact&theme=transparent&hide_border=true)
+# 🚀 CourseRecommender-AI
+
+Plataforma inteligente de recomendação de cursos desenvolvida com Inteligência Artificial Generativa.
+
+O sistema recomenda cursos reais com base nos interesses do usuário, valida os links em paralelo e garante resultados confiáveis por meio de mecanismos de fallback resilientes.
+
+### Principais recursos
+
+* 🤖 Integração com Google Gemini
+* ⚡ Validação paralela de links utilizando ThreadPoolExecutor
+* 🔄 Sistema inteligente de fallback
+* ✅ Verificação de URLs antes da recomendação
+* 🏗️ Arquitetura modular
+* 🧪 Testes automatizados
+* 🎯 Foco em confiabilidade e experiência do usuário
+
+👉 **Repositório:** https://github.com/felipe-f-rocha/CourseRecommender-AI
+
+---
+
+## GitHub
+
+* 💻 Desenvolvendo software prático com Python
+* 🌱 Evoluindo continuamente por meio do Open Source
+* 🚀 Sempre criando novos projetos e aprendendo tecnologias modernas
+
+Sinta-se à vontade para explorar meus repositórios ou entrar em contato pelo LinkedIn.
