@@ -112,3 +112,4 @@ It recommends real online courses based on user interests, validates links in pa
 Feel free to explore my repositories or connect with me on LinkedIn.
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/FelipeFernandesDr?theme=dark&font=JetBrains%20Mono)
